@@ -7,7 +7,7 @@
     identifies blocked custom connectors, and exports the data to a CSV file.
 
 .AUTHOR
-    [Your Name] (GitHub: @vasavisuggala)
+    Vasavi Suggala (GitHub: @vasavisuggala)
 
 .VERSION
     1.0.0
