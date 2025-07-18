@@ -54,3 +54,8 @@ The exported CSV includes:
 - ✅ Track sensitive custom connectors
 - ✅ Share reports with your governance team
 
+👩‍💻 Author
+✍️Developed with ❤️ by Vasavi Suggala
+
+🌟 Like this Script?
+If you found this script useful, please ⭐ star this repository to support future updates and help others discover it.
