@@ -1,5 +1,10 @@
 # PowerPlatform-DLP-Reporter
 
+![PowerShell](https://img.shields.io/badge/Built%20With-PowerShell-5391FE?logo=powershell&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Platform-Microsoft%20Power%20Platform-purple?logo=microsoftpowerapps&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Admin Tool](https://img.shields.io/badge/Tool-Type%3A%20Admin-lightgrey)
+
 🔍 **PowerPlatform-DLP-Reporter** is a PowerShell-based reporting tool designed for Microsoft Power Platform admins. It retrieves all Data Loss Prevention (DLP) policies in your tenant, including:  
 
 ✅ Business, Non-Business, and Blocked connectors  
